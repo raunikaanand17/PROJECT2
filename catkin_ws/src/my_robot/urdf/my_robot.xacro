@@ -34,7 +34,7 @@
 		<origin xyz="0 0 0" rpy=" 0 0 0"/>
 		<geometry>
 			<box size=".4 .2 .1"/>
-		</geoetry>
+		</geometry>
 	</visual>
 
 	<collision name='back_caster_collision'>
